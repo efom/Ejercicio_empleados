@@ -1,0 +1,28 @@
+.menu{
+    background: cadetblue;
+    width: 100%;
+    height: 34px;
+    color: azure;
+    font-family: "Arial Black";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contratista{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    border-right: 1px solid cadetblue;
+}
+
+#planta{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+}
